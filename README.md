@@ -5,33 +5,40 @@
 [![Reward](https://make.fun/badge/news-image-20261126/fiqirealme52-max/NewsImage26/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 One image summing up Thursday 26 November 2026 — Thanksgiving Day — in
-**35 stories across 7 regions and 9 fields**, every one first reported that
+**41 stories across 9 regions and 18 fields**, every one first reported that
 day (see the DATE CHECK box on the image for what was deliberately left out).
 
 ## What is on the page
 
-- **3 leads:** Eagles stun Cowboys 39–38 (biggest Thanksgiving comeback
-  ever) · EU summit ends without a budget pact (€1.582tn) · nor'easter
-  darkens 250,000+ homes and grounds Macy's 100th parade.
-- **8 illustrated cards:** Bears 39–35, Bills 13–10, Bogor mine flood
-  (13 dead, 13 missing), Iran's tanker claim (labelled CLAIM), Bangkok
-  refinery blast, Bank of Korea hike to 3.25%, 18 years since 26/11, Gaza
-  strikes — each with a one-line summary and its source.
-- **KPI strip:** Nikkei 57,499 +0.9% · Kospi 4,711 +0.3% · Stoxx 600
-  636.98 +1.8% · DAX 25,216 +2.1% · Bank of Korea 3.25% · EU budget
-  €1.582tn (all verified closing figures, no estimates).
-- **World map** with 35 numbered pins, a 22-story index, and a DATE CHECK
-  excluding Wednesday's news (US tariffs, Ras Tanura, Jolie–Pitt,
-  Miss Universe, Shenzhou-24, FedEx Miami).
+- **3 leads:** nor'easter leaves 250,000+ homes without power · Italy says
+  Iranian drones killed two technicians in Kuwait (labelled CLAIM — Iran
+  denies it) · EU summit ends with no budget deal (€1.582tn budget, €45bn
+  Ukraine loan undecided).
+- **10 illustrated cards:** Macy's 100th parade postponed to Saturday ·
+  Bank of Korea lifts its rate to 3.25% · Kim urges wider tactical nuclear
+  deployment · Bogor mine flood (13 dead, 13 missing) · Gaza strikes kill at
+  least 9 · Spain's De Cos picked to run the ECB · Israel threatens to
+  displace a million Gazans · Russian missiles strike Kyiv overnight · India
+  marks 18 years since the 26/11 Mumbai attacks · Gukesh and Sindarov draw
+  Game 3 of the world chess title match in Geneva.
+  Each card carries a status chip, a one-line summary and its source.
+- **KPI strip:** 250,000+ US customers without power · 2 Italian technicians
+  killed in Kuwait · €1.582tn EU budget left unagreed · 12,021 Ebola cases
+  in DR Congo · Bank of Korea 3.25% · Eagles 39–38 (all verified figures,
+  no estimates).
+- **Region bar** with counts that add up to 41, a UTC timeline of the day,
+  a **world map** with 13 numbered pins (one per picture story), a 28-story
+  index, and a DATE CHECK excluding Wednesday's news (US tariffs, Ras Tanura,
+  Jolie–Pitt, Miss Universe, Shenzhou-24, FedEx Miami).
 
 ## How it was made
 
 The image (`entry.png`, 1024×1024) was drawn programmatically with
 Python + Pillow: flat illustration, one big separate scene per lead,
 a real hand-plotted world map, and every figure verified live against
-Reuters, AP, BBC, FIFA, NFL, Sharecast and the Bank of Korea before
-drawing. Claims that could not be verified independently are hedged in
-the headline and tagged CLAIM.
+Reuters, AP, BBC, FIFA, the Bank of Korea, NWS, the WSJ and Al Jazeera
+before drawing. Claims that could not be verified independently are
+hedged in the headline and tagged CLAIM.
 
 ## Run
 
@@ -45,5 +52,5 @@ copy is not byte-identical.
 
 ## Sources
 
-Reuters · AP · BBC · FIFA · NFL · Sharecast · Bank of Korea · NWS ·
-Detroit Free Press · WSJ · Korea JoongAng Daily · Al Jazeera.
+Reuters · AP · BBC · CNN · WSJ · BOK · FIFA · NWS · Al Jazeera · Euronews ·
+AFP · SCMP · ONS · AAP.
